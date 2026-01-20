@@ -24,7 +24,7 @@ CSV File
 1- Power BI<br>
 2- Power Query (Merged Tables to denormalize into a single Fact Table)
 ## KPI Measures:
-- **Total Revenue** - Sum of (quantity * price_per_unit) from OrderDetails, aggregated over time periods.
+- **Total Revenue** - Sum of (quantity * price_per_unit), aggregated over time periods.
 - **Average Order Value (AOV)** - Total revenue divided by the count of distinct order_id from Orders.
 - **Total Orders** - Count of distinct order_id from Orders, often trended daily/weekly/monthly.
 - **Total Product Types** - Varieties of products available.
