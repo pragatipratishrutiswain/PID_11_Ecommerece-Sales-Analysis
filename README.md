@@ -27,11 +27,13 @@ CSV File
 2- Power Query (Merged Tables to denormalize into a single Fact Table)
 ## KPI Measures:
 - **Total Revenue** - Sum of (quantity * price_per_unit), aggregated over time periods.
-- **Average Order Value (AOV)** - Total revenue divided by the count of distinct order_id.
 - **Total Orders** - Count of distinct order_id, often trended daily/weekly/monthly.
 - **Total Product Types** - Varieties of products available.
+- **Average Order Value (AOV)** - Total revenue divided by the count of distinct order_id.
 - **Average Quantity per Order** - Average of quantity per order_id.
 - **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
+- **Selected M/Y Range** - Year-Month range within which the Sales Analysis is happening.
+- **Range in Months** - Number of months within Y/M range.
 
 ## DAX
 
