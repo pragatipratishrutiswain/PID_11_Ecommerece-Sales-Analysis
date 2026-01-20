@@ -25,6 +25,12 @@ CSV File
 ## Tools:
 1- Power BI<br>
 2- Power Query (Merged Tables to denormalize into a single Fact Table)
+
+## Data Model
+### Star Schema
+
+<img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/129aeede-e9db-44e3-a5cf-fdf9cd21fd7c" />
+
 ## KPI Measures:
 - **Total Revenue** - Sum of (quantity * price_per_unit), aggregated over time periods.
 - **Total Orders** - Count of distinct order_id, often trended daily/weekly/monthly.
@@ -34,13 +40,7 @@ CSV File
 - **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
 - **Selected M/Y Range** - Year-Month range within which the Sales Analysis is happening.
 - **Range in Months** - Number of months within Y/M range.
-
-## Data Model
-### Star Schema
-
-<img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/129aeede-e9db-44e3-a5cf-fdf9cd21fd7c" />
-
-
+- 
 ## DAX (KPIs)
 
 <img width="940" height="941" alt="image" src="https://github.com/user-attachments/assets/5065b557-2689-4025-b4b6-4677efda33d6" />
