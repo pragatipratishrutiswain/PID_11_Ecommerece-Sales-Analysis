@@ -40,6 +40,9 @@ Star Schema
 
 <img width="736" height="331" alt="image" src="https://github.com/user-attachments/assets/bbea8dde-fbb2-4432-8a03-a096d005684a" />
 
+<img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/7a8053c5-cc46-4bc8-9366-ff60a3475a94" />
+
+
 ## DAX (KPIs)
 
 <img width="940" height="941" alt="image" src="https://github.com/user-attachments/assets/5065b557-2689-4025-b4b6-4677efda33d6" />
