@@ -35,6 +35,11 @@ CSV File
 - **Selected M/Y Range** - Year-Month range within which the Sales Analysis is happening.
 - **Range in Months** - Number of months within Y/M range.
 
+## Data Model
+Star Schema
+
+<img width="736" height="331" alt="image" src="https://github.com/user-attachments/assets/bbea8dde-fbb2-4432-8a03-a096d005684a" />
+
 ## DAX (KPIs)
 
 <img width="940" height="941" alt="image" src="https://github.com/user-attachments/assets/5065b557-2689-4025-b4b6-4677efda33d6" />
