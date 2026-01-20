@@ -38,7 +38,7 @@ CSV File
 ## Data Model
 Star Schema
 
-<img width="736" height="331" alt="data model" src="https://github.com/user-attachments/assets/13deea73-5ac3-4ce4-8999-1c027059e34d" />
+<img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/129aeede-e9db-44e3-a5cf-fdf9cd21fd7c" />
 
 
 ## DAX (KPIs)
