@@ -40,7 +40,7 @@ CSV File
 - **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
 - **Selected M/Y Range** - Year-Month range within which the Sales Analysis is happening.
 - **Range in Months** - Number of months within Y/M range.
-- 
+
 ## DAX (KPIs)
 
 <img width="940" height="941" alt="image" src="https://github.com/user-attachments/assets/5065b557-2689-4025-b4b6-4677efda33d6" />
