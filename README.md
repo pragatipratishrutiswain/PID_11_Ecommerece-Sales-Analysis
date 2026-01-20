@@ -37,8 +37,6 @@ CSV File
 
 ## DAX (KPIs)
 
-<img width="950" height="938" alt="image" src="https://github.com/user-attachments/assets/6d23b592-1d39-41dd-9419-f8bc0fe708cd" />
-
 <img width="940" height="941" alt="image" src="https://github.com/user-attachments/assets/5065b557-2689-4025-b4b6-4677efda33d6" />
 
 
