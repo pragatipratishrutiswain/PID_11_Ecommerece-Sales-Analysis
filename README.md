@@ -38,8 +38,7 @@ CSV File
 ## Data Model
 Star Schema
 
-<img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/7a8053c5-cc46-4bc8-9366-ff60a3475a94" />
-
+<img width="736" height="331" alt="data model" src="https://github.com/user-attachments/assets/5caf03e8-5c3f-459d-aa31-c73f0c5b46f1" />
 
 ## DAX (KPIs)
 
