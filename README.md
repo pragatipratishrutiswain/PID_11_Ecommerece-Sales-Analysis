@@ -20,7 +20,7 @@ My work will directly impact the following business verticals:
 # ANALYSIS
 ## Import / Get Data From:
 CSV File
-## Tools :
+## Tools:
 1- Power BI<br>
 2- Power Query (Merged Tables to denormalize into a single Fact Table)
 ## KPI Measures:
