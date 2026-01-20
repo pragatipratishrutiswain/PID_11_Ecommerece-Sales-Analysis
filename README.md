@@ -38,8 +38,6 @@ CSV File
 ## Data Model
 Star Schema
 
-<img width="736" height="331" alt="image" src="https://github.com/user-attachments/assets/bbea8dde-fbb2-4432-8a03-a096d005684a" />
-
 <img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/7a8053c5-cc46-4bc8-9366-ff60a3475a94" />
 
 
