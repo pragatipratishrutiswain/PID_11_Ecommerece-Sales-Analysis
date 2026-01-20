@@ -32,3 +32,8 @@ CSV File
 - **Total Product Types** - Varieties of products available.
 - **Average Quantity per Order** - Average of quantity per order_id.
 - **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
+
+## DAX
+
+<img width="475" height="469" alt="image" src="https://github.com/user-attachments/assets/b1b417d4-2ec0-4272-b93d-08d27aac6c36" />
+
