@@ -18,7 +18,7 @@ My work will directly impact the following business verticals:
 - **OrderDetails Dataset:** order_id, product_id, quantity, and price_per_unit.
 
 # ANALYSIS
-## Import From:
+## Import/Get Data From:
 CSV File
 ## Tools :
 Power BI, Power Query
