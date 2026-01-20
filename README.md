@@ -26,6 +26,6 @@ Power BI, Power Query
 - **Total Revenue** - Sum of (quantity * price_per_unit) from OrderDetails, aggregated over time periods.
 - **Average Order Value (AOV)** - Total revenue divided by the count of distinct order_id from Orders.
 - **Total Orders** - Count of distinct order_id from Orders, often trended daily/weekly/monthly.
-- **Total Product Types** - TotaL varieties of products available.
+- **Total Product Types** - Varieties of products available.
 - **Average Quantity per Order** - Average of quantity from OrderDetails per order_id.
 - **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
