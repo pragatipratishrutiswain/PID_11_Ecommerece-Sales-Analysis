@@ -16,3 +16,16 @@ My work will directly impact the following business verticals:
 - **Products Dataset:** product_id, name, category, and price.
 - **Orders Dataset:** order_id, order_date, customer_id, and total_amount.
 - **OrderDetails Dataset:** order_id, product_id, quantity, and price_per_unit.
+
+# ANALYSIS
+## Impoert From:
+CSV
+## Tools :
+Power BI, Power Query
+## KPI Measures:
+- **Total Revenue** - Sum of (quantity * price_per_unit) from OrderDetails, aggregated over time periods.
+- **Average Order Value (AOV)** - Total revenue divided by the count of distinct order_id from Orders.
+- **Total Orders** - Count of distinct order_id from Orders, often trended daily/weekly/monthly.
+- **Total Product Types** - TotaL varieties of products available.
+- **Average Quantity per Order** - Average of quantity from OrderDetails per order_id.
+- **Repeate Purchase Rate** - Proportion of customers with repeat orders (multiple order_id per customer_id) within a cohort period.
