@@ -1,4 +1,4 @@
-# Ecommerece-Sales-Analysis
+# Ecommerece Sales Analysis
 
 **Overview:** As a data analyst at our dynamic e-commerce company, I'm tasked with leveraging our extensive databases to extract insights that drive our business strategies forward. My analysis will inform various departments, from marketing to supply chain, providing them with actionable data to optimize our operations, enhance customer satisfaction, and boost our sales performance. This case study simulates real-world tasks I will encounter and requires me to apply my SQL skills to solve practical business problems.
 
