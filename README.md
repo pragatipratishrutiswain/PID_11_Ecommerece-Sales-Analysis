@@ -36,7 +36,7 @@ CSV File
 - **Range in Months** - Number of months within Y/M range.
 
 ## Data Model
-Star Schema
+### Star Schema
 
 <img width="1471" height="661" alt="image" src="https://github.com/user-attachments/assets/129aeede-e9db-44e3-a5cf-fdf9cd21fd7c" />
 
